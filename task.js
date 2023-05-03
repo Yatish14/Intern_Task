@@ -50,6 +50,3 @@ function valuecountbyDay(input_Dict)
 
 const output_Dict = valuecountbyDay(input_Dict2);
 console.log(output_Dict);
-
-
-
